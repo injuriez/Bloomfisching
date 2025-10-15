@@ -16,4 +16,4 @@ For live support, please join [https://discord.gg/mangos](https://discord.gg/man
 - [@Cweamy](https://github.com/Cweamy) (Contributor) 
 - [@iamnotbobby](https://github.com/iamnotbobby) (Contributor)
 - [@GG-Green](https://github.com/GG-Green) (Contributor)
-- [@Lunarosity](https://github.com/Lunarosity) (sigma Contributor) <- gave me bar formula 
+- [@Lunarosity](https://github.com/Lunarosity) (Contributor) <- gave me bar formula 
