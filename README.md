@@ -2,7 +2,6 @@
 ![Logo](https://i.postimg.cc/bw3ymbX3/New-Project-5.png)
 
 
-
 # BloomFisching
 Bloomfisching is the most advanced fishing macro to date, featuring an impressive detection system for the fishing bar and some of the most exciting features available. It includes a weather and event tracker to help you find the events you need, along with full resolution support (available only in OpenCV mode). This application offers two detection methods for the minigame: pixel search and OpenCV. With OpenCV, it can detect any fishing rod, even in extremely dark conditions or in environments with low visibility!
 
