@@ -13,7 +13,7 @@ For live support, please join [https://discord.gg/mangos](https://discord.gg/man
 ## Authors
 
 - [@rushilol](https://www.github.com/injuriez) (Owner of bloom)
-- [@Cweamy](https://github.com/Cweamy) (Contributor)
+- [@Cweamy](https://github.com/Cweamy) (Contributor) 
 - [@iamnotbobby](https://github.com/iamnotbobby) (Contributor)
 - [@GG-Green](https://github.com/GG-Green) (Contributor)
 - [@Lunarosity](https://github.com/Lunarosity) (sigma Contributor) <- gave me bar formula 
