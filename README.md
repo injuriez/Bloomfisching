@@ -12,5 +12,5 @@ For live support, please join [https://discord.gg/mangos](https://discord.gg/man
 - [@rushilol](https://www.github.com/injuriez) (Owner of bloom)
 - [@Cweamy](https://github.com/Cweamy) (Contributor) 
 - [@iamnotbobby](https://github.com/iamnotbobby) (Contributor)
-- [@GG-Green](https://github.com/GG-Green) (Contributor)
+- [@GG-Green](https://github.com/GG-Green) (Senior Contributor) ↓ i gave lunar the original formula
 - [@Lunarosity](https://github.com/Lunarosity) (Contributor) <- gave me bar formula 
