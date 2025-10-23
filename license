@@ -62,6 +62,18 @@ This Agreement shall be governed and construed in accordance with the laws of th
 
 This Agreement constitutes the entire understanding between the parties concerning the Software and supersedes any prior agreements or representations, whether written or oral.
 
+10. API USAGE AND UNAUTHORIZED ACCESS
+
+Licensee shall not, under any circumstances:
+
+Access, use, or attempt to use the Software’s API without explicit permission from the Licensor.
+
+Attempt to extract, collect, or retrieve any data or information from the Software or API without authorization.
+
+Exploit, test, or bypass any security measures of the Software or API.
+
+Any unauthorized use or access of the API constitutes a material breach of this Agreement and may subject the Licensee to civil and/or criminal legal action, including but not limited to claims for damages, injunctive relief, and attorney’s fees.
+
 Contact Information:
 For permissions, licensing inquiries, or reporting violations, contact:
 Rushi — [https://github.com/injuriez]
