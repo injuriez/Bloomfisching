@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.postimg.cc/VLvvpCG2/image-2025-10-16-124811043.png" alt="Logo">
+  <img src="https://i.postimg.cc/QxLgn2KX/Aurora-Roslit-(2).png" alt="Logo">
 </p>
 
 
