@@ -8,7 +8,7 @@
 
 ## Support
 
-For live support, please join [https://discord.gg/mangos](https://discord.gg/mangos)
+For live support, please join https://discord.gg/ha4kKCV2
 
 ## Authors
 
