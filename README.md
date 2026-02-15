@@ -6,14 +6,13 @@
 
 
 
-## Support
+Bloomfisching will no longer be maintained (currently doesn't work anyways).
 
-For live support, please join https://discord.gg/ha4kKCV2
+I am moving on to bigger things in my life because I have bigger fish to catch . I have recently been hired by a new development team to create UIs, which is truly my forte. I am fully stepping away from the macro community and focusing on improving my UI skills, unless AI takes over (100% will happen).
 
-## Authors
+I will still post some UIs here and there on my github so you all can reuse them. I truly appreciate everyone who has supported me through these year(s) in the community. 
+(shout out: goblin, king moe, fendi (JOKING), jackk, fun, skid, person head, catman, cream, pear(or pary or pair bro has so many names), andrew, denzy ) 
 
-- [@rushilol](https://www.github.com/injuriez) (Owner of bloom)
-- [@Cweamy](https://github.com/Cweamy) (Bloom Developer) 
-- [@iamnotbobby](https://github.com/iamnotbobby) (Contributor)
-- [@GG-Green](https://github.com/GG-Green) (Bloom Developer) ↓ i gave lunar the original formula ↓ HES LYING
-- [@Lunarosity](https://github.com/Lunarosity) (Contributor) ^^ he begs me for help on everything he makes
+The main reason I started making macros was that the ones I used were either terrible or paid. I wanted to create my own for free and show people that it’s possible to make high quality macros without relying on AHK for everything.
+
+stop playing roblox its so buns!!!!!
